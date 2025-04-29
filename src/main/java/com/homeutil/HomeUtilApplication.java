@@ -1,4 +1,4 @@
-package com.homeutil.root.HomeUtil;
+package com.homeutil;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

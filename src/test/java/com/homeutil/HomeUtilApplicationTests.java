@@ -1,4 +1,4 @@
-package com.homeutil.root.HomeUtil;
+package com.homeutil;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
